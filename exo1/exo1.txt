@@ -1,0 +1,2 @@
+Écris une fonction qui vérifie si une chaîne de caractères contient au moins une lettre de l'alphabet (majuscule ou minuscule). Si jamais c'est vide,ça renvoi a false.
+ La fonction principale est une récursive 
